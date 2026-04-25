@@ -25,7 +25,7 @@
 - HTML & CSS  
 
 ## 📫 How to reach me  
-- 📧 your-email@gmail.com  
+- 📧 hitanshuy76@gmail.com  
 
 ## 👨‍💻 All of my projects are available at  
 - 🚧 Coming soon...  
