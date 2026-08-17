@@ -174,7 +174,7 @@ Building automated CI/CD pipelines for cloud-native applications using modern De
 # 📫 Connect With Me
 
 - 📧 **Email:** hitanshuy76@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/hitanshu-yadav
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hitanshu-yadav-b0467a38a/
 - 💻 **GitHub:** https://github.com/hitanshuyadav
 
 ---
